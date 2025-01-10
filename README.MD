@@ -20,6 +20,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para o ebook, o título deve ser épico, curto, criativo e chamativo, me liste 5 variações de títulos  
 
+
 | conteúdo | Faça um texto de ebook  com foco em contratação por inexigibilidade, conforme determina a Lei 13.303, listando os casos que se aplicam com exemplos, explique com linguagem simples e moderna, deixando o texto enxuto, sempre deixe um título e  subtítulo por tópicos, crie um nome extremamente Aesthetic para o ebook |
 
 
@@ -27,8 +28,8 @@ CANVA：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | imagem  com fundo em azul escuro,  ícones grandes ao centro como contratos, documentos e engrenagens, em tons de branco para dar um toque sofisticado |
-| título | FLOR ESTILIZADA, MODERNA EM TOM DE AZUL|
+| título | Imagem  com fundo em azul escuro,  ícones grandes ao centro como contratos, documentos e engrenagens, em tons de branco para dar um toque sofisticado |
+| título | Flor estilizada, moderna em tom de azul|
 
 ## ✨ Features
 
