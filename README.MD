@@ -3,7 +3,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/alehossoe/prompts-recipe-to-create-a-ebook/blob/7ee75957a70d7c2451dccc5b7abe667e14a17db2/Ebook_Inexigibilidade%20Descomplicada%20.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
